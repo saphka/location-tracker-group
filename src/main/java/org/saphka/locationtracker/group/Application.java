@@ -1,4 +1,4 @@
-package org.saphka.locationtracker;
+package org.saphka.locationtracker.group;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.saphka.locationtracker.config;
+package org.saphka.locationtracker.group.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

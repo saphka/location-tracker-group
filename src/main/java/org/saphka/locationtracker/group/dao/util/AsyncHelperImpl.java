@@ -1,4 +1,4 @@
-package org.saphka.locationtracker.dao.util;
+package org.saphka.locationtracker.group.dao.util;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

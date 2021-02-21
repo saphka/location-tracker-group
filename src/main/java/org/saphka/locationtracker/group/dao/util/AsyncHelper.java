@@ -1,4 +1,4 @@
-package org.saphka.locationtracker.dao.util;
+package org.saphka.locationtracker.group.dao.util;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
